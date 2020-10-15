@@ -116,7 +116,7 @@ def login():
 		jalan ("\033[1;93m[!] GAK BOLEH KOSONG SAYANG!..")
 		time.sleep(4)
 		login()
-	if usr=="MR-X JUNIOR" and passw=="CIA SAYANG":
+	if usr=="Ariefisal" and passw=="isal2018":
 		jalan ("\033[1;92m[✓] LOGIN BERHASIL! ^_^")
 		time.sleep(3)
 		virtex2()
