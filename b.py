@@ -87,7 +87,7 @@ def menu():
 	elif nu=="1" or nu=="01":
 		login()
 	elif nu=="2" or nu=="02":
-		os.system("xdg-open https://www.mediafire.com/file/0jwsk4m354ek8e3/file")
+		os.system("xdg-open https://www.mediafire.com/file/1KJ6OEAkFwOvR3Z2VXurHuiIdYYwZ2qpU/file")
 		time.sleep(1)
 		menu()
 	elif nu=="3" or nu=="03":
